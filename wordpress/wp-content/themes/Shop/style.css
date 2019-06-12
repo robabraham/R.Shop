@@ -1,0 +1,142 @@
+/*
+Theme Name: R.SHOP
+Author: Robert Abrahamyan
+Author URI: robert.abrahamyan7@tumo.org
+Description: This is a online shop
+Version: 1
+*/
+body{
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	color: #333;
+	background-image: url("images/background.jpg");
+	padding: 0;
+}
+
+p{
+	line-height: 1.65em;
+}
+
+a:link, a:visited {
+	color: black; 
+	text-decoration: none;
+}
+.glxavor{
+	margin: auto;
+}
+.site-header{
+	border: 1px solid #C0392B;
+	background-color: #C0392B;
+	padding: 10px;
+	height: 80px;
+}
+
+.site-footer{
+	border-top: 1px solid #C0392B;
+}
+
+ul{
+	list-style-type: none;
+	float: right;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	font-size: 17px;
+	color: black;
+	padding: 5px 10px;
+	border: 1px solid transparent;
+	border-radius: 10px;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color:#000;
+}
+.site-header nav ul li.current-menu-item a:link,
+.site-header nav ul li.current-menu-item a:visited,
+.site-header nav ul li.current-page-ancestor a:link,
+.site-header nav ul li.current-page-ancestor a:visited {
+	background-color: #fff;
+	color: #000;
+}
+
+/* Post style */
+.post h2{
+	margin-bottom: 0;
+}
+
+p.post-info{
+	font-size: 87%;
+	color: #999;
+}
+.post{
+	padding: 5px;
+	margin: 5px;
+	height: auto;
+}
+div.hd-search{
+	float: right;
+}
+
+div.hd-search #searchsubmit{
+	background-color: white;
+	color: #C0392B;
+	padding: 5px 14px;
+	border: none;
+	vertical-align: top;
+	cursor: pointer;
+	margin: 5px;
+}
+
+div.hd-search #s{
+	vertical-align: top;
+	padding: 3px 0;
+	margin: 5px;
+}
+.flexslider{
+	display: block;
+	width: 600px;
+	height: 700px;
+	margin: auto;
+}
+
+.wp-block-gallery columns-3 is-cropped{
+	width: 550px;
+	height: 600px;
+}
+.wp-block-image{
+	display: inline-block;
+	margin: 5px;
+}
+.wp-block-image is-resized{
+	display: inline-block;
+	margin: 5px;
+}
+.video{
+	display: inline-block;
+}
+.map{
+	display: inline-block;
+}
+.hello{
+	text-align: center;
+	font-size: 40px;
+	margin: 10px;
+}
+.apranq{
+	text-align: center;
+	margin: 10px;
+}
+.gglobe{
+	float: left;
+}
+.gsatelites{
+	display: inline-block;
+	margin: 10px;
+}

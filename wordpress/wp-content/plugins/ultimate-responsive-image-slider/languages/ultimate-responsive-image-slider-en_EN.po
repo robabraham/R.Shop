@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flicker Album Gallery\n"
+"POT-Creation-Date: 2018-09-14 03:19+0530\n"
+"PO-Revision-Date: 2018-09-14 03:19+0530\n"
+"Last-Translator: Weblizar <lizarweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tooltip.php:33 ultimate-responsive-image-slider-settings-meta-box.php:330
+msgid "Sliding Arrow"
+msgstr ""
+
+#: tooltip.php:38 ultimate-responsive-image-slider-settings-meta-box.php:343
+msgid "Show Thumbnail"
+msgstr ""
+
+#: tooltip.php:43 ultimate-responsive-image-slider-settings-meta-box.php:393
+msgid "Show Navigation Bullets"
+msgstr ""
+
+#: tooltip.php:48 ultimate-responsive-image-slider-settings-meta-box.php:406
+msgid "Slider Width"
+msgstr ""
+
+#: tooltip.php:53 ultimate-responsive-image-slider-settings-meta-box.php:422
+msgid "Slider Height"
+msgstr ""
+
+#: tooltip.php:58 ultimate-responsive-image-slider-settings-meta-box.php:311
+msgid "Slide Distance"
+msgstr ""
+
+#: tooltip.php:63 ultimate-responsive-image-slider-settings-meta-box.php:499
+msgid "Slide Title Color"
+msgstr ""
+
+#: tooltip.php:68 ultimate-responsive-image-slider-settings-meta-box.php:511
+msgid "Slide Title Background Color"
+msgstr ""
+
+#: tooltip.php:73 ultimate-responsive-image-slider-settings-meta-box.php:523
+msgid "Slide Description Color"
+msgstr ""
+
+#: tooltip.php:78 ultimate-responsive-image-slider-settings-meta-box.php:535
+msgid "Slide Description Background Color"
+msgstr ""
+
+#: tooltip.php:83 ultimate-responsive-image-slider-settings-meta-box.php:547
+msgid "Navigation Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:226
+msgid "Set Slide Title As"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:233
+msgid "Select Custom/File option to set slide title as above slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:239
+msgid "Display Slider Title"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:245
+msgid "Select Yes/No option to show/hide slide title above slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:250
+msgid "Auto Play Slide Show"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:253
+msgid "Yes"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:254
+msgid "Yes with Stop on Mouse Hover"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:255
+msgid "No"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:257
+msgid "Select Yes/No option to auto slide enable or disable into slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:262
+msgid "Slide Transition"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:268
+msgid "Select a transition effect you want to apply on slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:273
+msgid "Autoplay Slider Speed"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:278
+msgid "Set your desired slider speed of slides. Default speed is 5 Second"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:298
+msgid "Slide Order"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:301
+msgid "Ascending"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:302
+msgid "Descending"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:303
+msgid "Random"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:305
+msgid "Select a slide order you want to apply on slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:323
+msgid "Set a gap between all slides. Range 0 to 25"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:324
+#: ultimate-responsive-image-slider-settings-meta-box.php:337
+#: ultimate-responsive-image-slider-settings-meta-box.php:350
+#: ultimate-responsive-image-slider-settings-meta-box.php:400
+#: ultimate-responsive-image-slider-settings-meta-box.php:416
+#: ultimate-responsive-image-slider-settings-meta-box.php:431
+#: ultimate-responsive-image-slider-settings-meta-box.php:505
+#: ultimate-responsive-image-slider-settings-meta-box.php:517
+#: ultimate-responsive-image-slider-settings-meta-box.php:529
+#: ultimate-responsive-image-slider-settings-meta-box.php:541
+#: ultimate-responsive-image-slider-settings-meta-box.php:553
+msgid "Preview"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:336
+msgid "Select Yes/No option to show or hide arrows on mouse hover on slide"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:349
+msgid ""
+"Select Yes/No option to show or hide thumbnail based navigation under slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:356
+msgid "Thumbnail Position"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:359
+msgid "Top"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:360
+msgid "Bottom"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:362
+msgid "Select a thumbnail position to show above or below the slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:368
+msgid "Thumbnail Style"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:371
+msgid "Border"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:372
+msgid "Pointer"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:374
+msgid "Select a thumbnail style to apply on thumbnails"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:380
+msgid "Thumbnail Resize"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:384
+msgid "Width"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:385
+msgid "Height"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:387
+msgid "Set custom thumbnail height & width according to you"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:399
+msgid ""
+"Select Yes/No option to show or hide slider navigation buttons under image "
+"slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:410
+msgid "100% Width"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:411
+msgid "Full Width"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:412
+#: ultimate-responsive-image-slider-settings-meta-box.php:427
+msgid "Custom"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:415
+msgid "Enter your desired width for slider. Default width is 1000px"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:426
+msgid "Auto Height"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:430
+msgid "Enter your desired height for slider. Default height is 500px"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:437
+msgid "Slide Scale Mode"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:442
+msgid "None"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:443
+msgid "Exact"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:444
+msgid "Contain"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:445
+msgid "Cover"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:449
+msgid "Select a slide scale mode for slide frame"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:455
+msgid "Slide Auto Scale"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:461
+msgid "Select Yes/No option for slide auto scale"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:467
+msgid "Font Style"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:494
+msgid "Choose a caption font style"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:504
+msgid "Select a color to set slide title color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:516
+msgid "Select a color to set slide title background color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:528
+msgid "Select a color to set slide description color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:540
+msgid "Select a color to set slide description background color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:552
+msgid "Select a color to set navigation arrow and fullscreen icon color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:559
+msgid "Navigation Bullets Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:564
+msgid "Select a color to set navigation bullets color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:570
+msgid "Navigation Pointer Color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:575
+msgid "Select a color to set navigation pointer color"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:581
+msgid "Full Screen Slide Show"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:587
+msgid "Select Yes/No option for full screen slide show"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:593
+msgid "Custom CSS"
+msgstr ""
+
+#: ultimate-responsive-image-slider-settings-meta-box.php:598
+msgid ""
+"Enter any custom css you want to apply on this slider into textarea filed"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:145
+#: ultimate-responsive-image-slider.php:146
+msgid "Add New Slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:147
+msgid "Edit Slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:148
+msgid "New Slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:149
+msgid "View Slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:150
+msgid "Search Slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:151
+msgid "No Slider found"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:152
+msgid "No Slider Found in Trash"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:153
+msgid "Parent Slider:"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:154
+msgid "All Sliders"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:185
+msgid "UR Image Slider Title"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:186
+msgid "UR Image Slider Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:187
+msgid "Date"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:204
+msgid "Add Slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:205
+msgid "Apply Setting On Ultimate Responsive Image Slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:206
+msgid "Copy Image Slider Shortcode"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:269
+#: ultimate-responsive-image-slider.php:415
+msgid "Slide Title"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:270
+msgid "Enter Slide Title"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:273
+msgid "Slide Descriptions"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:274
+msgid "Enter Slide Description"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:275
+#: ultimate-responsive-image-slider.php:421
+msgid "Use Rich Text Editor"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:323
+msgid "Add New Slide"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:327
+msgid "Delete All Slides"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:394
+msgid "Use below shortcode in any Page/Post to publish your slider"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:416
+msgid "Enter Slide Title Here"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:419
+msgid "Slide Description"
+msgstr ""
+
+#: ultimate-responsive-image-slider.php:420
+msgid "Enter Slide Description Here"
+msgstr ""
